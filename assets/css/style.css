@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&family=Sintony&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.container{
+    display: flex;
+    background-color: antiquewhite;
+    justify-content: flex-end;
+    height: 5rem;
+}
+
+nav div{
+    letter-spacing: 0.1rem;
+    color:green;
+    padding:1rem 2rem  0 0;
+}
+
+.logo{
+    margin-right: auto;
+    text-transform: capitalize;
+    font-family: jaldi, sans-serif;
+    letter-spacing: 0.3rem;
+    color: #1c2833;
+    padding:1rem 0 0 5rem;
+}
