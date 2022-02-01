@@ -5,18 +5,20 @@
     padding: 0;
     border: none;
 }
+/* nav bar flexbox*/
 
-.container{
+.nav-container{
     display: flex;
-    background-color: antiquewhite;
+    /*background-color: antiquewhite;*/
     justify-content: flex-end;
     height: 5rem;
 }
 
 nav div{
     letter-spacing: 0.1rem;
-    color:green;
-    padding:1rem 2rem  0 0;
+   /* color:green;*/
+    padding: 2rem 2rem  0 0;
+    font-family: sintony, sans-serif;
 }
 
 .logo{
@@ -24,6 +26,39 @@ nav div{
     text-transform: capitalize;
     font-family: jaldi, sans-serif;
     letter-spacing: 0.3rem;
-    color: #1c2833;
-    padding:1rem 0 0 5rem;
+    /*color: #1c2833;*/
+    padding: 1rem 0 0 5rem;
+}
+/* building */
+
+.flex-container {
+    display: flex;
+}
+
+.float-image {
+    /*padding: 10px;*/
+    max-width: 50%;
+    overflow: hidden;
+  }
+  
+  .float-text{
+    padding: 10px;
+    max-width: 50%;
+    flex-wrap: wrap;
+  }
+#building{
+    height: 490px;
+}
+
+#build{
+    font-size: 280%;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin:auto;
+    padding: 65px 0px 20px 0px;
+}
+#building-text{
+    font-size: 120%;
+    text-transform: capitalize;
+    letter-spacing: 2px;
 }
