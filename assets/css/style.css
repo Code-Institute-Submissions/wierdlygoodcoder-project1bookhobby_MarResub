@@ -53,7 +53,7 @@ nav div{
 .float-image {
     overflow: hidden;
     flex-grow: 1;
-    object-fit: fill;
+    padding-left: 0.1rem;
   }
   
   .float-text{
@@ -93,6 +93,9 @@ nav div{
     margin: 0 auto;
 }
 
+
+/*painting*/
+
 .painting-container{
     display: flex;
     justify-content: flex-start;
@@ -113,4 +116,62 @@ nav div{
     line-height: 20px;
     margin: auto;
     width: 60%;
+    padding-left: 10px;
+}
+
+/* Form */
+
+.form-container {
+    display: flex;
+    justify-content: center;
+}
+
+/*.form-section {
+    clear: left;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}*/
+
+.signup {
+    color: #7e2929;
+    background-color: aquamarine;
+    max-width: 460px;
+    padding: 20px;
+    height: 320px;
+}
+
+.signup-form > h2 {
+    color: red;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: black;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: blue;
+    display: block;
+    color: white;
+}
+
+.join-button:hover {
+    background-color: white;
+    color: #f16c6b;
 }
