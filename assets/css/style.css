@@ -8,6 +8,7 @@
 
 html{
     scroll-behavior: smooth;
+    background:rgba(209, 224, 224,0.25);
 }
 
 hr{
@@ -25,7 +26,8 @@ hr{
     top: 0;
     left: 0;
     right: 0;
-    background: aquamarine;
+    background:#f20008
+    ;
 }
 
 nav div{
@@ -60,17 +62,18 @@ nav div{
     max-width: 50%;
     flex-grow: 1;
     font-size: 120%;
+    margin: auto;
   }
 
 #build{
     font-size: 280%;
-    text-transform: uppercase;
+    text-transform: capitalize;
     letter-spacing: 4px;
     margin:auto;
     padding: 65px 0px 20px 0px;
 }
 #building-text{
-    font-size: 120%;
+    font-size: 150%;
     text-transform: capitalize;
     letter-spacing: 2px;
 }
@@ -105,18 +108,18 @@ nav div{
     line-height: 20px;
     margin: auto;
     width: 60%;
+    font-size: 150%;
 }
 .flex-painting-center{
     margin: auto;
     width: 60%;
-
-
 }
 .flex-painting-right{
     line-height: 20px;
     margin: auto;
     width: 60%;
     padding-left: 10px;
+    font-size: 150%;
 }
 
 /* Form */
@@ -128,7 +131,7 @@ nav div{
 
 .signup {
     color: #7e2929;
-    background-color: aquamarine;
+    background-color:aquamarine ;
     max-width: 460px;
     padding: 20px;
     height: 320px;
@@ -145,8 +148,10 @@ nav div{
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
-    border: 1px solid #fafafa;
+    border: 1px inset #fafafa;
+    background: #1c2833;
     border-radius: 2px;
+
 }
 
 .text-input:hover {
@@ -183,5 +188,5 @@ nav div{
     color: #3a3a3a;
     text-align: center;
     display: inline;
-    
+
 }
