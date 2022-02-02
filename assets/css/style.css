@@ -53,7 +53,7 @@ nav div{
 .float-image {
     overflow: hidden;
     flex-grow: 1;
-    padding-left: 0.1rem;
+    margin: auto;
   }
   
   .float-text{
@@ -126,13 +126,6 @@ nav div{
     justify-content: center;
 }
 
-/*.form-section {
-    clear: left;
-    background-size: cover;
-    background-position: center;
-    height: 400px;
-}*/
-
 .signup {
     color: #7e2929;
     background-color: aquamarine;
@@ -174,4 +167,21 @@ nav div{
 .join-button:hover {
     background-color: white;
     color: #f16c6b;
+}
+
+/*footer*/
+
+.social-networks{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.social{
+    font-size: 200%;
+    margin: 1%;
+    color: #3a3a3a;
+    text-align: center;
+    display: inline;
+    
 }
