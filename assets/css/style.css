@@ -6,6 +6,10 @@
     border: none;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 hr{
     height: 30px;
 }
@@ -14,9 +18,14 @@ hr{
 
 .nav-container{
     display: flex;
-    /*background-color: antiquewhite;*/
     justify-content: flex-end;
     height: 5rem;
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: aquamarine;
 }
 
 nav div{
@@ -31,8 +40,9 @@ nav div{
     text-transform: capitalize;
     font-family: jaldi, sans-serif;
     letter-spacing: 0.3rem;
-    /*color: #1c2833;*/
+    color: #1c2833;
     padding: 1rem 0 0 5rem;
+    flex-grow: 2;
 }
 /* building */
 
