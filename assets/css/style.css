@@ -26,8 +26,9 @@ hr{
     top: 0;
     left: 0;
     right: 0;
-    background:#f20008
-    ;
+    background:#f20008;
+    color: white;
+    font-size: 150%;
 }
 
 nav div{
@@ -42,7 +43,7 @@ nav div{
     text-transform: capitalize;
     font-family: jaldi, sans-serif;
     letter-spacing: 0.3rem;
-    color: #1c2833;
+    color: white;
     padding: 1rem 0 0 5rem;
     flex-grow: 2;
 }
