@@ -5,6 +5,11 @@
     padding: 0;
     border: none;
 }
+
+hr{
+    height: 30px;
+}
+
 /* nav bar flexbox*/
 
 .nav-container{
@@ -36,19 +41,16 @@ nav div{
 }
 
 .float-image {
-    /*padding: 10px;*/
-    max-width: 50%;
     overflow: hidden;
+    flex-grow: 1;
+    object-fit: fill;
   }
   
   .float-text{
-    padding: 10px;
     max-width: 50%;
-    flex-wrap: wrap;
+    flex-grow: 1;
+    font-size: 120%;
   }
-#building{
-    height: 490px;
-}
 
 #build{
     font-size: 280%;
@@ -61,4 +63,44 @@ nav div{
     font-size: 120%;
     text-transform: capitalize;
     letter-spacing: 2px;
+}
+
+/*painting*/
+#paint{
+   text-align: center;
+   font-size: 450%;
+   text-transform: capitalize;
+}
+
+#circle-square{
+    width: 39%;
+    height: 300px;
+    padding: 25px;
+    border-style: dashed;
+    border-color: black;
+    border-width: 0.5rem;
+    border-radius: 25%;
+    margin: 0 auto;
+}
+
+.painting-container{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.flex-painting-left{
+    line-height: 20px;
+    margin: auto;
+    width: 60%;
+}
+.flex-painting-center{
+    margin: auto;
+    width: 60%;
+
+
+}
+.flex-painting-right{
+    line-height: 20px;
+    margin: auto;
+    width: 60%;
 }
