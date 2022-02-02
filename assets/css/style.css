@@ -129,7 +129,7 @@ a {
 
 .signup {
     color: white;
-    background-color:#874b4b;
+    background-color: #874b4b;
     max-width: 460px;
     padding: 20px;
     height: 320px;
@@ -188,33 +188,36 @@ a {
     display: inline;
 }
 
-/* media quires moblie*/
+/* media query moblie*/
 @media only screen and (min-width: 320px) and (max-width: 479px) {
     .flex-container {
         flex-direction: column;
     }
-    .flex-text{
+
+    .flex-text {
         max-width: 100%;
     }
-    .flex-image{
-        padding-top: 2px;
-    }
-    #building-text p{
+
+    #building-text p {
         padding: 10px;
     }
-    .nav-container{
+
+    .nav-container {
         justify-content: unset;
         position: unset;
         height: 6rem;
         font-size: 80%;
     }
-    .logo{
-        padding:unset;
+
+    .logo {
+        padding: unset;
     }
-    .painting-container{
+
+    .painting-container {
         flex-direction: column;
     }
-    .signup{
+
+    .signup {
         height: 370px;
     }
 }
