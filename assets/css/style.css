@@ -72,11 +72,12 @@ nav div{
     letter-spacing: 4px;
     margin:auto;
     padding: 65px 0px 20px 0px;
+    text-align: center;
 }
 #building-text{
     font-size: 150%;
-    text-transform: capitalize;
     letter-spacing: 2px;
+    color: red;
 }
 
 /*painting*/
@@ -84,25 +85,13 @@ nav div{
    text-align: center;
    font-size: 450%;
    text-transform: capitalize;
+   color: red;
 }
-
-#circle-square{
-    width: 39%;
-    height: 300px;
-    padding: 25px;
-    border-style: dashed;
-    border-color: black;
-    border-width: 0.5rem;
-    border-radius: 25%;
-    margin: 0 auto;
-}
-
-
-/*painting*/
 
 .painting-container{
     display: flex;
     justify-content: flex-start;
+    color: red;
 }
 
 .flex-painting-left{
@@ -131,8 +120,8 @@ nav div{
 }
 
 .signup {
-    color: #7e2929;
-    background-color:aquamarine ;
+    color: white;
+    background-color:red ;
     max-width: 460px;
     padding: 20px;
     height: 320px;
@@ -150,7 +139,7 @@ nav div{
     height: 25px;
     margin: 5px 0 20px 0;
     border: 1px inset #fafafa;
-    background: #1c2833;
+    background: rgba(2, 17, 17, 0.25);
     border-radius: 2px;
 
 }
@@ -165,14 +154,14 @@ nav div{
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: blue;
+    background-color: whitesmoke;
     display: block;
-    color: white;
+    color: red;
 }
 
 .join-button:hover {
-    background-color: white;
-    color: #f16c6b;
+    background-color: rgba(209, 224, 224,0.5);
+    color: white;
 }
 
 /*footer*/
