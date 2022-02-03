@@ -7,16 +7,16 @@ Users of the website will be able to find out the information on the website eas
 
 ## features
 - **Navigation**
-   - Featured at the top of the page the navigation bar shows the organisations name in the top left hand corner
+   - Featured at the top of the page the navigation bar shows the organisations name in the top left-hand corner
    - The navigation links are: Paint, build, book in, which link to different sections of the same page
-   - the navigation is in the font is sintony and the text color contrasts with the background
-   - the nav bar cleary shows what they are here to do and shows off the different sections
+   - The navigation is in the font is sintony and the text colour contrasts with the background
+   - The navigation bar clearly shows what they are here to do and shows off the different sections
 ![nav bar](https://user-images.githubusercontent.com/95313496/152308799-8bb3415f-3828-42e2-9766-6b26e676fdea.png)
 
-header
-about up
-sign up form
-contact
+building
+painting
+book hobby form
+
 
 
 testing 
