@@ -221,3 +221,30 @@ a {
         height: 370px;
     }
 }
+
+@media only screen and (orientation: landscape) {
+    .nav-container {
+        height: 8rem;
+    }
+
+    .flex-container {
+        padding-top: 70px;
+        flex-direction: column;
+    }
+
+    .flex-text {
+        max-width: unset;
+    }
+
+    #build {
+        padding: 10px 0px 10px 0px;
+    }
+
+    .painting-container {
+        flex-direction: column;
+    }
+
+    .logo {
+        padding: unset;
+    }
+}
