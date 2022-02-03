@@ -70,7 +70,13 @@ Users of the website will be able to find out the information on the website eas
    - Form source section drop-down menu select the master branch
    - one on the master branch has been selected, the page provided the link
 
-The live link can be found here- **[Hobby Booking](https://wierdlygoodcoder.github.io/project1bookhobby/)**Hobby Booking
+The live link can be found here- **[Hobby Booking](https://wierdlygoodcoder.github.io/project1bookhobby/)**
 
+## Credits
 
-credits content and media
+**Content**
+-i have taken elements from the love running project that incles the footer elment and the form element and made them my own in is project
+
+**Media**
+- the image used in building was taken from: **[Here](https://www.dicebreaker.com/topics/ask-dicebreaker/how-to/dicebreaker-answers-miniatures-games)**
+- the image used in painting was taken from: **[Here](https://www.youtube.com/watch?v=Qq90snzIl6c)** it was from the thumb nail of this video.
