@@ -1,4 +1,4 @@
-# Hobby Sign Up
+The # Hobby Sign Up
 The hobby booking website is so that anyone looking does their hobby can book a session at any time they would like, the page is designed for all ages. the hobby booking website offers people space to come and work on any hobby they would like.
 
 Users of the website will be able to find out the information on the website easily and also find out what they need to know with a quick read.
@@ -50,23 +50,23 @@ Users of the website will be able to find out the information on the website eas
 ![bug1](https://user-images.githubusercontent.com/95313496/152337225-caf7d5dc-6986-4086-a827-c8b2eba76eed.png)
 
 **Unsolved Bugs**
-- form does not need you to have an email address to complete it even though i have it as required.
+- form does not need you to have an email address to complete it even though I have it as required.
 
 ## Validator Testing 
 **HTML**
    - no errors found when passing through w3c html validation
    -
 **CSS**
-   - no errors found when passng through W3C css validation.
+   - no errors were found when passing through W3C CSS validation.
 
 **Accessibility**
-   - i confirmed that the colors and fonts are easy to read and accessible by running through lighthouse in the devloper tools.
+   - I confirmed that the colors and fonts are easy to read and accessible by running through the lighthouse in the developer tools.
  ![assecciblity](https://user-images.githubusercontent.com/95313496/152346192-0501d76e-5be3-43fa-aeec-11e3317bcc29.png)
 
 
 **Deployment**
 - The site was deployed using git hub pages. the steps to deploy are as follows:
-   - In github repository navigate to the settings tab
+   - In the GitHub repository navigate to the settings tab
    - Form source section drop-down menu select the master branch
    - one on the master branch has been selected, the page provided the link
 
@@ -75,8 +75,8 @@ The live link can be found here- **[Hobby Booking](https://wierdlygoodcoder.gith
 ## Credits
 
 **Content**
--i have taken elements from the love running project that incles the footer elment and the form element and made them my own in is project
+-I have taken elements from the love running project that incles the footer element and the form element and made them my own in is project
 
 **Media**
-- the image used in building was taken from: **[Here](https://www.dicebreaker.com/topics/ask-dicebreaker/how-to/dicebreaker-answers-miniatures-games)**
-- the image used in painting was taken from: **[Here](https://www.youtube.com/watch?v=Qq90snzIl6c)** it was from the thumb nail of this video.
+- the image used in the building was taken from: **[Here](https://www.dicebreaker.com/topics/ask-dicebreaker/how-to/dicebreaker-answers-miniatures-games)**
+- the image used in the painting was taken from: **[Here](https://www.youtube.com/watch?v=Qq90snzIl6c)** it was from the thumbnail of this video.
