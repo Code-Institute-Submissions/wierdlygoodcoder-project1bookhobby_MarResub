@@ -97,7 +97,7 @@ a {
 .painting-container {
     display: flex;
     justify-content: flex-start;
-    color:#874b4b;
+    color: #874b4b;
 }
 
 .flex-painting-left {
@@ -174,7 +174,7 @@ a {
 
 /*footer*/
 
-footer{
+footer {
     background-color: #874b4b;
 }
 
@@ -223,6 +223,7 @@ footer{
         height: 370px;
     }
 }
+
 /* landscape orientation*/
 @media screen and (min-width: 320px) and (max-width: 767px) and (orientation: landscape) {
     .nav-container {
@@ -250,6 +251,7 @@ footer{
         padding: unset;
     }
 }
+
 /* tablet media query*/
 @media only screen and (min-width: 768px) and (max-width: 979px) {
     .flex-container {
@@ -272,11 +274,11 @@ footer{
         flex-direction: column;
     }
 
-    .flex-painting-left{
-        width:unset;
+    .flex-painting-left {
+        width: unset;
     }
 
-    .flex-painting-right{
+    .flex-painting-right {
         width: unset;
     }
 }
