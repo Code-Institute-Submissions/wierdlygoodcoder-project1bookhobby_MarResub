@@ -55,7 +55,7 @@ Users of the website will be able to find out the information on the website eas
 ## Validator Testing 
 **HTML**
    - no errors found when passing through w3c html validation
-   -
+   
 **CSS**
    - no errors were found when passing through W3C CSS validation.
 
