@@ -222,7 +222,7 @@ a {
     }
 }
 
-@media only screen and (orientation: landscape) {
+@media screen and (min-width: 320px) and (max-width: 767px) and (orientation: landscape) {
     .nav-container {
         height: 8rem;
     }
@@ -246,5 +246,35 @@ a {
 
     .logo {
         padding: unset;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+    .flex-container {
+        flex-direction: column;
+    }
+
+    .nav-container {
+        height: 8rem;
+    }
+
+    .flex-image {
+        padding-top: 95px;
+    }
+
+    .flex-text {
+        max-width: unset;
+    }
+
+    .painting-container {
+        flex-direction: column;
+    }
+
+    .flex-painting-left{
+        width:unset;
+    }
+
+    .flex-painting-right{
+        width: unset;
     }
 }
