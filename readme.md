@@ -25,7 +25,7 @@ Users of the website will be able to find out the information on the website eas
      - This section also offers the user to come in and learn how to paint a miniature.
      ![painting](https://user-images.githubusercontent.com/95313496/152311988-85484b3f-1d0f-498f-8a47-4ae942512b01.png)
 
--**Book hobby form**
+- **Book hobby form**
    - The booking hobby form section has a form to collect detail of the user so they can book a session
    -  The form collects the user's name, what they are plan on doing, an email to contact them on, and the date they would like to book the session.
    -  The booking form is valuable to the user as they have peace of mind that they have booked a space.
@@ -46,11 +46,23 @@ Users of the website will be able to find out the information on the website eas
 **Bugs Solved**
 - I had to restart the project as the way I tried to do before did not what to work that is linked in the media section. 
  after restarting I managed to learn and use flexbox which worked a lot better than my previous way.
--I had trouble with the git pod not committing the new version so I had to merge it to get gitpod to commit it again
-
+- I had trouble with the git pod not committing the new version so I had to merge it to get gitpod to commit it again.
+![bug1](https://user-images.githubusercontent.com/95313496/152337225-caf7d5dc-6986-4086-a827-c8b2eba76eed.png)
 
 **Unsolved Bugs**
-validator testing HTML CSS and accessibility
+- form does not need you to have an email address to complete it even though i have it as required.
+
+## Validator Testing 
+**HTML**
+   - validator pick up an error with the main tag but can not find that it was closed
+   -
+**CSS**
+   - no errors found when passng through W3C css validation.
+
+**Accessibility**
+   - i confirmed that the colors and fonts are easy to read and accessible by running through lighthouse in the devloper tools.
+ ![assecciblity](https://user-images.githubusercontent.com/95313496/152346192-0501d76e-5be3-43fa-aeec-11e3317bcc29.png)
+
 
 deployment
 credits content and media
