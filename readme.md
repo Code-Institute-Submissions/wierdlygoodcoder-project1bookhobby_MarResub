@@ -5,7 +5,7 @@ Users of the website will be able to find out the information on the website eas
 
 ![project 1 responsive](https://user-images.githubusercontent.com/95313496/152299918-8b2fdec3-5555-495c-8f92-73662c1c4330.png)
 
-## features
+## Features
 - **Navigation**
    - Featured at the top of the page the navigation bar shows the organisations name in the top left-hand corner
    - The navigation links are: Paint, build, book in, which link to different sections of the same page
@@ -19,15 +19,22 @@ Users of the website will be able to find out the information on the website eas
    - The section also talks about the form, later on, to help the user continue.
 ![building section](https://user-images.githubusercontent.com/95313496/152310545-a6bfacd0-6ba6-46fb-bfd7-9c24e286588f.png)
 
-- **painting**
-     - the painting section gives the user details on how much experiance the staff have at painting.
-     - the section also shows off the qulity of the painting that the staff can do.
-     - this section also offers the user to come in and learn how to paint a miniture.
+- **Painting**
+     - The painting section gives the user details on how much experiance the staff have at painting.
+     - The section also shows off the qulity of the painting that the staff can do.
+     - This section also offers the user to come in and learn how to paint a miniture.
      ![painting](https://user-images.githubusercontent.com/95313496/152311988-85484b3f-1d0f-498f-8a47-4ae942512b01.png)
 
-book hobby form
+-**Book hobby form**
+   - The booking hobby form section has a form to collect detail of the user so they can book a session
+   -  The form collects the user's name, what they are plan on doing, an email to contact them on and the date they would like to book the session.
+   -  The booking form is valuable to the user as they have peace of mind that they have booked a space.
+![form](https://user-images.githubusercontent.com/95313496/152312892-1f4d608c-ced1-461b-969c-3bc4f8c29a25.png)
 
-
+- **Social media links**
+   - There are links to youtube Instagram Twitter and Facebook these link to the external pages and open in a new browser window
+   - There is a dark red background and the images are white.
+![footer](https://user-images.githubusercontent.com/95313496/152313759-f5ece1ea-c047-40e1-a8d1-9d7e2a8cbced.png)
 
 testing 
 bugs solved and unsolved bugs
