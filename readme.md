@@ -36,7 +36,11 @@ Users of the website will be able to find out the information on the website eas
    - There is a dark red background and the images are white.
 ![footer](https://user-images.githubusercontent.com/95313496/152313759-f5ece1ea-c047-40e1-a8d1-9d7e2a8cbced.png)
 
-testing 
+## Testing 
+- i have tested that this page works in different browsers: Chrome, Edge, safri and firefox
+- i confirm that this project is responsive, looks good on all standard screen sizes using the inspect function on google chrome.
+- i tested to make sure that the text is readable in all areas of the webpage.
+- i tested the form to make sure it ouputs
 bugs solved and unsolved bugs
 validator testing html css and accessiblity
 
