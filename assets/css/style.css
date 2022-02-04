@@ -217,6 +217,18 @@ footer {
         font-size: 80%;
     }
 
+    .flex-painting-left{
+        width: 100%;
+    }
+
+    .flex-painting-right{
+        width: 100%;
+    }
+
+    .flex-painting-center{
+        width: 100%;
+    }
+
     .logo {
         padding: unset;
     }
@@ -251,7 +263,21 @@ footer {
 
     .painting-container {
         flex-direction: column;
+        width: unset;
     }
+
+    .flex-painting-left{
+        width: 100%;
+    }
+
+    .flex-painting-right{
+        width: 100%;
+    }
+
+    .flex-painting-center{
+        width: 100%;
+    }
+
 
     .logo {
         padding: unset;
