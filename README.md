@@ -1,4 +1,4 @@
-# Hobby Sign Up
+# [Hobby Sign Up](https://wierdlygoodcoder.github.io/project1-booksessions/)
 The hobby booking website is so that anyone looking does their hobby can book a session at any time they would like, the page is designed for all ages. the hobby booking website offers people space to come and work on any hobby they would like.
 
 Users of the website will be able to find out the information on the website easily and also find out what they need to know with a quick read.
@@ -35,7 +35,7 @@ Users of the website will be able to find out the information on the website eas
    - There are links to youtube Instagram Twitter and Facebook these link to the external pages and open in a new browser window
    - There is a dark red background and the images are white.
 ![footer](https://user-images.githubusercontent.com/95313496/152313759-f5ece1ea-c047-40e1-a8d1-9d7e2a8cbced.png)
-
+   
 ## Testing 
 - I have tested that this page works in different browsers: Chrome, Edge, safari, and firefox
 - I confirm that this project is responsive, looks good on all standard screen sizes using the inspect function on google chrome.
@@ -55,7 +55,7 @@ Users of the website will be able to find out the information on the website eas
 ## Validator Testing 
 **HTML**
    - no errors found when passing through w3c html validation
-   -
+   
 **CSS**
    - no errors were found when passing through W3C CSS validation.
 
@@ -75,8 +75,11 @@ The live link can be found here- **[Hobby Booking](https://wierdlygoodcoder.gith
 ## Credits
 
 **Content**
--I have taken elements from the love running project that incles the footer element and the form element and made them my own in is project
+- I have taken elements from the love running project that incles the footer element and the form element and made them my own in is project
 
 **Media**
 - the image used in the building was taken from: **[Here](https://www.dicebreaker.com/topics/ask-dicebreaker/how-to/dicebreaker-answers-miniatures-games)**
 - the image used in the painting was taken from: **[Here](https://www.youtube.com/watch?v=Qq90snzIl6c)** it was from the thumbnail of this video.
+
+### Old project that would not work
+ - https://wierdlygoodcoder.github.io/project1-booksessions/
