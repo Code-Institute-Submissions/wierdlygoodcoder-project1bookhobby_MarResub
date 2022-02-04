@@ -87,7 +87,7 @@ a {
 }
 
 
-/*painting*/
+/* painting */
 #paint {
     text-align: center;
     font-size: 450%;
@@ -178,7 +178,7 @@ a {
     color: rgb(227, 250, 211);
 }
 
-/*footer*/
+/* footer */
 
 footer {
     background-color: #874b4b;
@@ -308,9 +308,11 @@ footer {
 
     .flex-painting-left {
         width: unset;
+        padding-left: 2px;
     }
 
     .flex-painting-right {
         width: unset;
     }
 }
+
