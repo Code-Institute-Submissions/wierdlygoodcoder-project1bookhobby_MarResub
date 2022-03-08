@@ -1,4 +1,4 @@
-# [Hobby Sign Up](https://wierdlygoodcoder.github.io/project1-booksessions/)
+# [Hobby Sign Up](https://wierdlygoodcoder.github.io/project1bookhobby/)
 The hobby booking website is so that anyone looking does their hobby can book a session at any time they would like, the page is designed for all ages. the hobby booking website offers people space to come and work on any hobby they would like.
 
 Users of the website will be able to find out the information on the website easily and also find out what they need to know with a quick read.
